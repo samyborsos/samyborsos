@@ -37,7 +37,6 @@ Here are a few highlights of my work:
 - **Scholarly Insights Hub**  
   *Developing a website with Python and Laravel to aggregate scholarly publishing insights.*
 
-Explore more in my [Projects Repository](https://github.com/samyborsos).
 
 ---
 
